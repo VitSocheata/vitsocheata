@@ -9,24 +9,25 @@
 ## 👨‍💻 Programming Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
+    <img src="https://skillicons.dev/icons?i=html" width="40"/>
+    <img src="https://skillicons.dev/icons?i=css" width="40"/>
+    <img src="https://skillicons.dev/icons?i=javascript" width="40"/>
+    <img src="https://skillicons.dev/icons?i=cpp" width="40"/>
 </p>
->
+
 
 ## 🚀 Frameworks & Libraries
 
 <p align="left" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vue" width="40"/>
 </p>
 
 ## 🔧 Tools & Version Control
+
 <p align="left" >
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="40"/>
+  <img src="https://skillicons.dev/icons?i=github" width="40"/>
 </p>
 
