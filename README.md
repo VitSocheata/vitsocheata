@@ -6,7 +6,7 @@
 
  Beginner Web Developer |  Just getting started
 
-##  About Me
+<h4>About Me</h4>
 
 🔁 I'm restarting my web development journey — and I'm excited to learn new skills!
 
