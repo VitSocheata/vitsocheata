@@ -9,10 +9,10 @@
 ## 👨‍💻 Programming Languages
 
 <p align="left">
+    <img src="https://skillicons.dev/icons?i=cpp" width="40"/>
     <img src="https://skillicons.dev/icons?i=html" width="40"/>
     <img src="https://skillicons.dev/icons?i=css" width="40"/>
     <img src="https://skillicons.dev/icons?i=javascript" width="40"/>
-    <img src="https://skillicons.dev/icons?i=cpp" width="40"/>
 </p>
 
 
