@@ -1,3 +1,8 @@
+<h1>About Me</h1>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vitsocheata&label=PROFILE+VIEWS&color=ff69b4&style=flat"/>
+</p>
+
 # 🐣 I'm Socheata
 
 💡 Beginner Web Developer | 🌱 Just getting started
