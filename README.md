@@ -2,11 +2,11 @@
   <img src="https://komarev.com/ghpvc/?username=vitsocheata&label=PROFILE+VIEWS&color=ff69b4&style=flat"/>
 </p>
 
-# 🐣 I'm Socheata
+# I'm Socheata
 
-💡 Beginner Web Developer | 🌱 Just getting started
+ Beginner Web Developer |  Just getting started
 
-## 🧠 About Me
+##  About Me
 
 🔁 I'm restarting my web development journey — and I'm excited to learn new skills!
 
