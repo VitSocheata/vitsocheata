@@ -8,7 +8,7 @@
 
 <h3>About Me</h3>
 
-🔁 I'm restarting my web development journey — and I'm excited to learn new skills!
+I'm restarting my web development journey — and I'm excited to learn new skills!
 
 ## My Skills
 <h3> Programming Languages</h3>
