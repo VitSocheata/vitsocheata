@@ -23,7 +23,7 @@
   <img src="https://skillicons.dev/icons?i=vue" width="40"/>
 </p>
 
-## 🔧 Tools & Version Control
+ ## 🔧 Tools & Version Control
 
 <p align="left" >
   <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
