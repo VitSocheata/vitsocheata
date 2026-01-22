@@ -7,7 +7,7 @@
 🔁 I'm restarting my web development journey — and I'm excited to learn new skills!
 
 ## My Skills
-# 👨‍💻 Programming Languages
+ Programming Languages
 
 <p align="left">
     <img src="https://skillicons.dev/icons?i=cpp" width="40"/>
@@ -17,14 +17,14 @@
 </p>
 
 
-# 🚀 Frameworks & Libraries
+ Frameworks & Libraries
 
 <p align="left" >
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
   <img src="https://skillicons.dev/icons?i=vue" width="40"/>
 </p>
 
-# 🔧 Tools & Version Control
+<h4> Tools & Version Control</h4>
 
 <p align="left" >
   <img src="https://skillicons.dev/icons?i=vscode" width="40"/>
