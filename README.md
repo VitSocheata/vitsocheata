@@ -1,4 +1,3 @@
-<h1>About Me</h1>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=vitsocheata&label=PROFILE+VIEWS&color=ff69b4&style=flat"/>
 </p>
