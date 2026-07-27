@@ -19,6 +19,7 @@ I'm restarting my web development journey — and I'm excited to learn new skill
     <img src="https://skillicons.dev/icons?i=css" width="40"/>
     <img src="https://skillicons.dev/icons?i=javascript" width="40"/>
     <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
+    
 </p>
 
  <h3>Frameworks & Libraries</h3>
@@ -26,7 +27,7 @@ I'm restarting my web development journey — and I'm excited to learn new skill
 <p align="left" >
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
   <img src="https://skillicons.dev/icons?i=vue" width="40"/>
-  <img src="https://skillicons.dev/icons?i=express" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nodejs" width="40"/>
 </p>
 
 <h3>Databases</h3>
