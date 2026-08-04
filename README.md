@@ -27,6 +27,7 @@ I'm restarting my web development journey — and I'm excited to learn new skill
 <p align="left" >
   <img src="https://skillicons.dev/icons?i=bootstrap" width="40"/>
   <img src="https://skillicons.dev/icons?i=vue" width="40"/>
+  <img src="https://skillicons.dev/icons?i=nuxt" width="40"/>
   
 </p>
 
